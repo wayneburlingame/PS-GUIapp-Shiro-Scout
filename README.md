@@ -1,6 +1,10 @@
 # PS-GUIapp-Shiro-Scout
 ## What is it?
-A PowerShell Graphical User App.
+A PowerShell Studio Graphical User App.
+More info about Sapien products can be found at:
+https://www.sapien.com/store/software/powershell-studio
+## Is this user/production ready?
+No on your life... It is "Tinkerer Mode Ready"
 ## What ARCH is it built for?
 Currently, I am focusing on x64, but with 32 bit compatibility.
 ## Is this for non-domain or domain-joined computers?
