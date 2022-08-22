@@ -3,6 +3,8 @@
 A PowerShell Studio Graphical User App.
 More info about Sapien products can be found at:
 https://www.sapien.com/store/software/powershell-studio
+## Demo View
+![Demo View](/wayneburlingame/PS-GUIapp-Shiro-Scout/assets/shiro.png?raw=true "Shiro Scout")
 ## Is this user/production ready?
 No on your life... It is "Tinkerer Mode Ready"
 ## What ARCH is it built for?
