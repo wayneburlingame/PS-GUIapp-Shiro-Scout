@@ -6,8 +6,8 @@ https://www.sapien.com/store/software/powershell-studio
 ## Demo View
 ![Shiro Screenshot](/assets/WinTools.gif?raw=true "Shiro Screenshot")
 ![Shiro Screenshot2](/assets/StartHere.gif?raw=true "Shiro Screenshot2")
-![Shiro Screenshot3](/assets/PC.png?raw=true "Shiro Screenshot3")
-![Shiro Screenshot4](/assets/Perf.png?raw=true "Shiro Screenshot4")
+![Shiro Screenshot3](/assets/pc.gif?raw=true "Shiro Screenshot3")
+![Shiro Screenshot4](/assets/perf.gif?raw=true "Shiro Screenshot4")
 ## Is this user/production ready?
 No on your life... It is "Tinkerer Mode Ready"
 ## What ARCH is it built for?
