@@ -3,7 +3,7 @@
 I'm still in learning-mode for Git, Git commands, CI/CD and some other skills so I apologize if my structure, uploads are a mess. 
 ## App Location
 The full executable app is in the "app" folder if you just want to download and test.
-## Sapient PowerShell Studio Code Project Files
+## Sapien PowerShell Studio Code Project Files
 These are located in the PowerShell-Studio-Files folder.
 ## What is it?
 A PowerShell Studio Graphical User App.
