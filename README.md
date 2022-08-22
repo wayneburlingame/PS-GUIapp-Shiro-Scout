@@ -1,4 +1,6 @@
 # PS-GUIapp-Shiro-Scout
+### Disclaimer
+I'm still in learning-mode for Git, Git commands, CI/CD and some other skills so I apologize if my structure, uploads are a mess. 
 ## What is it?
 A PowerShell Studio Graphical User App.
 More info about Sapien products can be found at:
