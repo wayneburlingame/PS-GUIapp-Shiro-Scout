@@ -1,0 +1,370 @@
+﻿<Project Synchronized="True" SyncFilter="*.pdf;*.doc;*.docx;*.xls;*.xlsx;*.csv;*.exe;*.png;*.jpg; *.gif;*.bat;*.cmd;*.vbs;*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>1955960a-8d5c-44af-87ec-6ebe466e056d</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders>
+    <Folder>Images</Folder>
+    <Folder>ImportPs1</Folder>
+    <Folder>ADTools</Folder>
+    <Folder>Helpers</Folder>
+    <Folder>Docs</Folder>
+    <Folder>Help</Folder>
+    <Folder>FileTransfer</Folder>
+    <Folder>Dll</Folder>
+    <Folder>Fonts</Folder>
+    <Folder>Assembly</Folder>
+    <Folder>Theme</Folder>
+    <Folder>Style</Folder>
+    <Folder>Browser</Folder>
+    <Folder>ShortCuts</Folder>
+    <Folder>ExtraGui</Folder>
+    <Folder>Bat</Folder>
+    <Folder>_DebugFiles</Folder>
+    <Folder>ADTools\AdExplorer</Folder>
+    <Folder>Bat\CfgMgrActionItems</Folder>
+    <Folder>Browser\QtWebCache</Folder>
+    <Folder>Browser\QtWebSettings</Folder>
+    <Folder>Browser\QtWebSettings\QtWeb.NET</Folder>
+    <Folder>ExtraGui\USMTGUI</Folder>
+    <Folder>Vbs</Folder>
+    <Folder>Images\SolidImages</Folder>
+    <Folder>Images\Windows-Graphics</Folder>
+    <Folder>Images\SolidImages\Banner</Folder>
+    <Folder>Images\SolidImages\Buttons</Folder>
+    <Folder>Images\Windows-Graphics\Cropped</Folder>
+    <Folder>Images\Windows-Graphics\Cropped\25</Folder>
+    <Folder>Images\Windows-Graphics\Cropped\50</Folder>
+    <Folder>Images\Windows-Graphics\Cropped\75</Folder>
+    <Folder>Browser\QtWebCache\cache</Folder>
+    <Folder>Browser\QtWebCache\cache\data7</Folder>
+    <Folder>Browser\QtWebCache\cache\prepared</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\0</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\1</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\2</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\3</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\4</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\5</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\6</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\7</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\8</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\9</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\a</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\b</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\c</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\d</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\e</Folder>
+    <Folder>Browser\QtWebCache\cache\data7\f</Folder>
+    <Folder>STAGING</Folder>
+  </Folders>
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-ChildForm_psf">ChildForm.psf</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-ADLockoutViewer_ps1">ExtraGui\ADLockoutViewer.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-ResetPasswordGUI_ps1">ExtraGui\ResetPasswordGUI.ps1</File>
+    <File Build="2">Bat\DisableStartupRepair.Bat</File>
+    <File Build="2">Bat\McAfeeUpdater.cmd</File>
+    <File Build="2">Bat\CfgMgrActionItems\CfgMgrActionItems.cmd</File>
+    <File Build="2">Bat\CfgMgrActionItems\CfgMgrActionItems.vbs</File>
+    <File Build="2">ADTools\ADInsight.exe</File>
+    <File Build="2">Browser\QtWeb.exe</File>
+    <File Build="2">Helpers\paexec.exe</File>
+    <File Build="2">ADTools\AdExplorer\ADExplorer.exe</File>
+    <File Build="2">Docs\DellSupport.pdf</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-AutoWinUpdates_ps1">ImportPs1\AutoWinUpdates.ps1</File>
+    <File Build="2">Vbs\winupdates.bat</File>
+    <File Build="2">Bat\CfgMgrActionItems\HelloWorld.bat</File>
+    <File Build="2">Bat\lid.cmd</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-ShowDesktopIcons_ps1">ImportPs1\ShowDesktopIcons.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-DisableCortana_ps1">ImportPs1\DisableCortana.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-Set-QuickAccess_ps1">ImportPs1\Set-QuickAccess.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-RemoveEdgeDefault_ps1">ImportPs1\RemoveEdgeDefault.ps1</File>
+    <File Build="2">ExtraGui\USMTGUI\USMTGUI.exe</File>
+    <File Build="2">Images\SolidImages\Banner\bannerblue.png</File>
+    <File Build="2">Images\SolidImages\Banner\bannerbluedrk.png</File>
+    <File Build="2">Images\SolidImages\Banner\blueswirl.png</File>
+    <File Build="2">Images\SolidImages\Banner\blueswirsml.png</File>
+    <File Build="2">Images\SolidImages\Banner\halfbanner.png</File>
+    <File Build="2">Images\SolidImages\Buttons\blue_backgrounds_solid_light_65833_1920x1080.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttonblue.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttonbluedkdrk.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttonbluelt.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplit.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplitdrk.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplitsm.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplitsmlt.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplitsmmed.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Orangesplitsmmini.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Accessibility.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\AdministrativeTools.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\CmdPrompt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\ColorMgt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Control_Panel.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\CreateRepairDisk.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\DBAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Diags.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\DiskClean.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Firewall.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\FontView.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\InstallMedia.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\MediaDev.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\MsConfig.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\MsPaint.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\MsRemoteAssnt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\MultiFuncDevice.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Network.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Notepad.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Notices.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\RecycleBin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\SearchFile.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\SearchFileC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\SearchFiles.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\Security.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\SnippingTool.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\StepsRecorder.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\SystemInformation.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\ThisPC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\TimeDateNumbers.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\UsersGroups.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\UtilityApp.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Accessibility.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Accessibilitysm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Accessibilitysm60.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Accessibilityxsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\AdministrativeTools.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\AdministrativeToolssm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\CmdPrompt-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\CmdPrompt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\ColorMgt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\ColorMgtsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\ConfigAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\ConfigAdminsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Control_Panel-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Control_Panel.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\CreateRepairDisk.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\CreateRepairDisksm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\DBAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\DBAdminsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Diags-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Diags.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\DiskClean-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\DiskClean.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\download.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Firewall.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Firewallsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\FontView.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\FontViewsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\HCL_Logo25.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\HCL_Logo50.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\HCL_Logo75.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\IEsettings.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\IEsettingssm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\index.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\InstallMedia.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\InstallMediasm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\KB.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\KBsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MediaDev.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MediaDevsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Mouse.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Mousesm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsConfig-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsConfig.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsPaint-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsPaint.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsRemoteAssnt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MsRemoteAssntsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MultiFuncDevice.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\MultiFuncDevicesm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Network.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Networksm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Notepad-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Notepad.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Notices.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Noticessm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Power.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Powesm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\RecycleBin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\RecycleBinsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SearchFileC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SearchFileCsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SearchFiles-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SearchFiles.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Security.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Securitysm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SnippingTool-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SnippingTool.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\StepsRecorder-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\StepsRecorder.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SystemInformation-xsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\SystemInformation.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\Taskbarsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\ThisPC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\TimeDateNumbers.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\TimeDateNumberssm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\UsersGroups.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\UsersGroupssm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\UtilityApp.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\UtilityAppsm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\WindowsUpdates.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\25\WindowsUpdatessm.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Accessibility.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\AdministrativeTools.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\CmdPrompt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\ColorMgt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\ConfigAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Control_Panel.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\CreateRepairDisk.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\DBAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Diags.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\DiskClean.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Firewall.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\FontView.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\IEsettings.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\InstallMedia.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\KB.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\MediaDev.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Mouse.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\MsConfig.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\MsPaint.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\MsRemoteAssnt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\MultiFuncDevice.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Network.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Notepad.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Notices.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Power.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\RecycleBin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\SearchFileC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\SearchFiles.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\Security.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\SnippingTool.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\StepsRecorder.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\SystemInformation.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\ThisPC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\TimeDateNumbers.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\UsersGroups.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\UtilityApp.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\50\WindowsUpdates.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Accessibility.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\AdministrativeTools.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\CmdPrompt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\ColorMgt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\ConfigAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Control_Panel.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\CreateRepairDisk.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\DBAdmin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Diags.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\DiskClean.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Firewall.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\FontView.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\IEsettings.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\InstallMedia.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\KB.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\MediaDev.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Mouse.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\MsConfig.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\MsPaint.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\MsRemoteAssnt.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\MultiFuncDevice.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Network.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Notepad.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Notices.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Power.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\RecycleBin.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\SearchFileC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\SearchFiles.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\Security.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\SnippingTool.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\StepsRecorder.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\SystemInformation.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\ThisPC.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\TimeDateNumbers.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\UsersGroups.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\UtilityApp.png</File>
+    <File Build="2">Images\Windows-Graphics\Cropped\75\WindowsUpdates.png</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-ComputerManagement_ps1">ImportPs1\ComputerManagement.ps1</File>
+    <File Build="2">Images\SolidImages\Banner\bennergreen.png</File>
+    <File Build="2">Images\SolidImages\Banner\bennergreendrk.png</File>
+    <File Build="2">Images\SolidImages\Banner\Ltgreenbannner.png</File>
+    <File Build="2">Images\SolidImages\Banner\Ltgreenbannnerlt.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttongreen.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttongreendrk.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttongreenlt.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Ltbuttongreen.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Ltbuttongreendrk.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Ltbuttongreenlt.png</File>
+    <File Build="2">Images\SolidImages\Buttons\Brtbuttongreen.png</File>
+    <File Build="2">Images\SolidImages\Buttons\BrtLtbuttongreen.png</File>
+    <File Build="2">Images\SolidImages\Buttons\greenbg.png</File>
+    <File Build="2">Images\SolidImages\Buttons\greenbg1.png</File>
+    <File Build="2">Images\SolidImages\Buttons\nw-bg.png</File>
+    <File Build="2">Images\SolidImages\Buttons\softwarebg.png</File>
+    <File Build="2">Images\SolidImages\Buttons\softwarebgtitle.png</File>
+    <File Build="2">Images\SolidImages\Buttons\status_bar_item_background_focus.9.png</File>
+    <File Build="2">Images\SolidImages\Banner\bannergreenmulti.png</File>
+    <File Build="2">Images\SolidImages\blue_backgrounds2.png</File>
+    <File Build="2">Images\SolidImages\Buttons\buttonblue2.png</File>
+    <File Build="2">STAGING\DellSupport.pdf</File>
+    <File Build="2">STAGING\ADExplorer.exe</File>
+    <File Build="2">STAGING\ADInsight.exe</File>
+    <File Build="2">STAGING\paexec.exe</File>
+    <File Build="2">STAGING\QtWeb.exe</File>
+    <File Build="2">STAGING\ShiroScript.exe</File>
+    <File Build="2">STAGING\USMTGUI.exe</File>
+    <File Build="2">STAGING\Accessibility.png</File>
+    <File Build="2">STAGING\AdministrativeTools.png</File>
+    <File Build="2">STAGING\bannerblue.png</File>
+    <File Build="2">STAGING\bannerbluedrk.png</File>
+    <File Build="2">STAGING\blueswirl.png</File>
+    <File Build="2">STAGING\blueswirsml.png</File>
+    <File Build="2">STAGING\blue_backgrounds_solid_light_65833_1920x1080.png</File>
+    <File Build="2">STAGING\buttonblue.png</File>
+    <File Build="2">STAGING\buttonbluedkdrk.png</File>
+    <File Build="2">STAGING\buttonbluelt.png</File>
+    <File Build="2">STAGING\CmdPrompt.png</File>
+    <File Build="2">STAGING\ColorMgt.png</File>
+    <File Build="2">STAGING\Control_Panel.png</File>
+    <File Build="2">STAGING\CreateRepairDisk.png</File>
+    <File Build="2">STAGING\DBAdmin.png</File>
+    <File Build="2">STAGING\Diags.png</File>
+    <File Build="2">STAGING\DiskClean.png</File>
+    <File Build="2">STAGING\Firewall.png</File>
+    <File Build="2">STAGING\FontView.png</File>
+    <File Build="2">STAGING\halfbanner.png</File>
+    <File Build="2">STAGING\InstallMedia.png</File>
+    <File Build="2">STAGING\MediaDev.png</File>
+    <File Build="2">STAGING\MsConfig.png</File>
+    <File Build="2">STAGING\MsPaint.png</File>
+    <File Build="2">STAGING\MsRemoteAssnt.png</File>
+    <File Build="2">STAGING\MultiFuncDevice.png</File>
+    <File Build="2">STAGING\Network.png</File>
+    <File Build="2">STAGING\Notepad.png</File>
+    <File Build="2">STAGING\Notices.png</File>
+    <File Build="2">STAGING\Orangesplit.png</File>
+    <File Build="2">STAGING\Orangesplitdrk.png</File>
+    <File Build="2">STAGING\Orangesplitsm.png</File>
+    <File Build="2">STAGING\Orangesplitsmlt.png</File>
+    <File Build="2">STAGING\Orangesplitsmmed.png</File>
+    <File Build="2">STAGING\Orangesplitsmmini.png</File>
+    <File Build="2">STAGING\RecycleBin.png</File>
+    <File Build="2">STAGING\SearchFile.png</File>
+    <File Build="2">STAGING\SearchFileC.png</File>
+    <File Build="2">STAGING\SearchFiles.png</File>
+    <File Build="2">STAGING\Security.png</File>
+    <File Build="2">STAGING\SnippingTool.png</File>
+    <File Build="2">STAGING\StepsRecorder.png</File>
+    <File Build="2">STAGING\SystemInformation.png</File>
+    <File Build="2">STAGING\ThisPC.png</File>
+    <File Build="2">STAGING\TimeDateNumbers.png</File>
+    <File Build="2">STAGING\UsersGroups.png</File>
+    <File Build="2">STAGING\UtilityApp.png</File>
+    <File Build="2">STAGING\DisableStartupRepair.Bat</File>
+    <File Build="2">STAGING\HelloWorld.bat</File>
+    <File Build="2">STAGING\winupdates.bat</File>
+    <File Build="2">STAGING\CfgMgrActionItems.cmd</File>
+    <File Build="2">STAGING\lid.cmd</File>
+    <File Build="2">STAGING\McAfeeUpdater.cmd</File>
+    <File Build="2">STAGING\CfgMgrActionItems.vbs</File>
+  </Files>
+</Project>
